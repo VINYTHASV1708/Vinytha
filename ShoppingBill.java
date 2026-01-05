@@ -1,4 +1,3 @@
-package Shopping;
 
 public class ShoppingBill {
 	public static void main(String[] args) {
